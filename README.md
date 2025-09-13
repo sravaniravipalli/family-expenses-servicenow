@@ -1,7 +1,9 @@
 **Calculating Family Expenses Using ServiceNow**
+
 This project is a comprehensive expense calculation system built on the ServiceNow platform. It aims to help users efficiently track and manage family expenses, supporting features such as expense categorization, budget setting, real-time tracking, and reporting. The solution emphasizes seamless integration, a user-friendly interface, and scalability to handle varying family sizes and financial needs.
 
 **Features**
+
 Expense categorization and tracking
 
 Budget setting for families
@@ -17,6 +19,7 @@ Relationship management between family members and expenses
 Easily configurable with custom tables and relationships
 
 **Project Structure**
+
 Setting Up ServiceNow Instance: Instructions for initializing a ServiceNow developer instance.
 
 Creation Of New Update Set: Steps to organize and deploy changes.
@@ -33,7 +36,9 @@ Creation Of Business Rules: Automates logic for data consistency and notificatio
 
 Configure The Relationship: Further setup for advanced relationships.
 
-**Conclusion:** Key project outcomes.
+**Conclusion:** 
+
+Key project outcomes.
 
 Getting Started
 Clone the repository
@@ -49,17 +54,22 @@ Import update sets as described, then customize tables, fields, and business rul
 Start adding family and expense data to test the system.
 
 **Demo**
+
 To view a demo, check the Demo Video included in this repository.
 https://drive.google.com/file/d/1is7V9yDFkPnz3eu0_PyEq8ofH_dto3Pn/view?usp=drivesdk
 
 **Documentation**
+
 Full documentation is available in the /docs folder or in the project wiki (if enabled), detailing each implementation step and configuration.
 
 **Contributing**
+
 Pull requests are welcome. For significant changes, please open an issue first to discuss your ideas.
 
 **License**
+
 This project is licensed under the MIT License.
 
 **Acknowledgements**
+
 Special thanks to the ServiceNow Developer Community for extensive resources and support.
