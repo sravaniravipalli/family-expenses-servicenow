@@ -50,6 +50,7 @@ Start adding family and expense data to test the system.
 
 **Demo**
 To view a demo, check the Demo Video included in this repository.
+https://drive.google.com/file/d/1is7V9yDFkPnz3eu0_PyEq8ofH_dto3Pn/view?usp=drivesdk
 
 **Documentation**
 Full documentation is available in the /docs folder or in the project wiki (if enabled), detailing each implementation step and configuration.
